@@ -3,6 +3,8 @@
 A minimal Chrome extension: one toolbar button that toggles the current tab's `Accept`
 request header between the browser default and `text/markdown`, reloading the page.
 
+![Accept: text/markdown Toggle](https://github.com/ahgood/accept-text-markdown-toggle/blob/main/accept-text-markdown-toggle.png?raw=true)
+
 ## Install
 
 1. Open `chrome://extensions` and turn on **Developer mode**.
